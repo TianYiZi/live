@@ -57,3 +57,5 @@ nk:
     post: 6379
     username: guest
     password: guest
+  upload: 
+    path: e://liveupload
